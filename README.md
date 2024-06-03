@@ -1,6 +1,8 @@
+
 <html lang="en">
 <head>
-<img src="file:///C:/Users/piyush%20sharma/Documents/brbljpg.html" alt="Tanker">
+<img src="C:\Users\piyush sharma\Documents\whatsapp-image-2022-12-13-at-10-36-22-250x250.jpg" alt="Tanker">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BRBL India - Transportation and Logistics</title>
@@ -35,6 +37,14 @@
             text-align: center;
             margin-top: 20px;
         }
+        .fleet-image {
+            text-align: center;
+        }
+        .fleet-image img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -57,6 +67,10 @@
             </ul>
             <p>For all your transportation needs and inquiries, please don't hesitate to reach out.</p>
         </div>
+        <div class="fleet-image">
+            <img src=""C:\Users\piyush sharma\Documents\brbl.webp"" alt=""C:\Users\piyush sharma\Documents\brbl.webp"">
+            <img src="truck2.jpg" alt="Truck Image 2">
+        </div>
     </div>
     <div class="contact-info">
         <p>Contact Us</p>
@@ -65,4 +79,3 @@
     </div>
 </body>
 </html>
-
